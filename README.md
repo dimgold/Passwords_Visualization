@@ -3,10 +3,12 @@
 During the course we created two projects:
 
 1. Passwords Visualization
+Visualization of common passwords from [UNIQPASS](http://dazzlepod.com/uniqpass/) dataset
 attached in repository:
 * [Project Deck (pptx)](/Passwords.pptx)
-* [R, Python and MySQL code for data ETL and analysis]
+* [R, Python and MySQL code for data ETL and analysis](/pass_words)
 * Visualization results:
+![/heatmap.png]
 
 
 
