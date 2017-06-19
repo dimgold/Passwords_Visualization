@@ -1,4 +1,3 @@
-setwd("C:/Users/22334/Dropbox/Homework/Visualization/passwords")
 
 datap = read.table("pass.txt")
 head(datap)
