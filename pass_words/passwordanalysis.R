@@ -6,8 +6,8 @@ dim(datap)
 install.packages("RMySQL")
 library(RMySQL)
 
-#mydb = dbConnect(MySQL(), # add credintials
-
+mydb = dbConnect(MySQL(),
+mydb = dbConnect(MySQL(), 
 dbListTables(mydb)
 dbListFields(mydb, 'passdata')
 rs = dbSendQuery(mydb, 'SELECT 
