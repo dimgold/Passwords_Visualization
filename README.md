@@ -8,7 +8,7 @@ attached in repository:
 * [Project Deck (pptx)](/Passwords.pptx)
 * [R, Python and MySQL code for data ETL and analysis](/pass_words)
 * Visualization results:
-![heatmap](/heatmap.png "Passwords heatmap")
+![heatmap](/heatmap1.png "Passwords heatmap")
 
 
 
