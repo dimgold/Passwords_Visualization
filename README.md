@@ -30,5 +30,8 @@ attached in repository:
 ![combos](/combos.png)
 
 
+
+
 2. Research on timeline direction in RTL languages visualizations
+
  - currently the work is written on hebew and not published
