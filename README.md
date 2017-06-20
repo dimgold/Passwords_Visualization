@@ -9,16 +9,24 @@ attached in repository:
 * [R, Python and MySQL code for data ETL and analysis](/pass_words)
 * Visualization results:
 
-   * Passwords Heatmap (using https://www.patrick-wied.at/projects/heatmap-keyboard/)
+   * Passwords Heatmap (using https://www.patrick-wied.at/projects/heatmap-keyboard/
+   
 ![heatmap](/heatmap1.png "Passwords heatmap")
 
 
 
+
    * Chars and locations Density 
+   
+   
 ![density](/density.png)
 
 
+
+
    * Popular combos locations
+   
+   
 ![combos](/combos.png)
 
 
