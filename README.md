@@ -11,7 +11,8 @@ attached in repository:
 
 * Passwords Heatmap (using https://www.patrick-wied.at/projects/heatmap-keyboard/ )
    
-![heatmap](/heatmap1.png "Passwords heatmap")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/heatmap1.png" alt="Passwords heatmap" width="700" height="300"  >
 
 
 
